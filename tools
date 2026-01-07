@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>URL Index Checker – IndexSolve</title>
-<link rel="stylesheet" href="../css/style.css">
+  <meta charset="UTF-8">
+  <title>URL Index Checker – IndexSolve</title>
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
 
 <h1>URL Index Checker</h1>
 
 <form id="indexForm">
-<input type="url" id="urlInput" placeholder="Enter full URL" required>
-<button type="submit">Check Index</button>
+  <input type="url" id="urlInput" placeholder="Enter full URL" required>
+  <button type="submit">Check Index</button>
 </form>
 
 <div id="message"></div>
 <div id="result"></div>
 
 <script src="../js/main.js"></script>
-
 </body>
 </html>
