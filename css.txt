@@ -1,0 +1,32 @@
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+}
+
+nav a {
+margin-right: 10px;
+text-decoration: none;
+}
+
+.hero {
+background: #f3f4f6;
+padding: 20px;
+margin-top: 20px;
+}
+
+.btn {
+background: #2563eb;
+color: #fff;
+padding: 10px;
+text-decoration: none;
+}
+
+.success {
+color: green;
+margin-top: 10px;
+}
+
+.error {
+color: red;
+margin-top: 10px;
+}

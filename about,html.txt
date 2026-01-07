@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About IndexSolve</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>About IndexSolve</h1>
+
+<p>
+IndexSolve is built to help beginners understand website indexing,
+SEO problems and ranking issues using simple tools.
+</p>
+
+<p>
+Our goal is to explain complex SEO topics in easy language
+with step-by-step solutions.
+</p>
+
+</body>
+</html>

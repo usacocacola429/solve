@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact – IndexSolve</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Contact Us</h1>
+
+<p>Email: support@indexsolve.com</p>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Privacy Policy – IndexSolve</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>
+IndexSolve does not collect personal information unless you voluntarily
+submit it through forms.
+</p>
+
+<p>
+We may use cookies and AI-generated content to improve user experience.
+</p>
+
+<p>
+IndexSolve is not affiliated with Google or Bing.
+</p>
+
+</body>
+</html>
